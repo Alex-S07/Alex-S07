@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🔭 Iam student pursuing my degree in computer science and Engineering
+🌱 Iam currently learning Web development
 <!--
 **Alex-S07/Alex-S07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
